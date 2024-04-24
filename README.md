@@ -20,3 +20,5 @@
 7.[LAB 7](https://github.com/ShreyaKandhagatla/AIML-LAB/blob/main/Assignment_7.ipynb)
 
 8.[LAB 8](https://github.com/ShreyaKandhagatla/AIML-LAB/blob/main/LAB_8.ipynb)
+
+9.[LAb 9](https://github.com/ShreyaKandhagatla/AIML-LAB/blob/main/LAb9.ipynb)
